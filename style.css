@@ -100,8 +100,8 @@ button {
     text-align: center;
   }
   #text {
-    max-width: 30vh;
-    min-height: 15vh;
+    width: 30vh;
+    height: 15vh;
   }
 
   .notes{
